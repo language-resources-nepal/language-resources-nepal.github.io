@@ -12,7 +12,7 @@ permalink: /tasks
 <ul style="list-style: square;">
     {% for task in site.data.tasks %}
         <li>
-            <a href="{{ task.url }}"> {{ task.name }} </a>
+            <a href="tasks/{{ task.url }}"> {{ task.name }} </a>
         </li>
     {% endfor %}
 </ul>

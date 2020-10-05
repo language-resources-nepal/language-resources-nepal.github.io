@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Corpus",
+        "url":  "corpus"
+    },
+    {
+        "name": "Machine Translation",
+        "url":  "translation"
+    },
+    {
+        "name": "Morphological Analysis",
+        "url":  "morphology"
+    },
+    {
+        "name": "Named Entity Recognition",
+        "url":  "ner"
+    },
+    {
+        "name": "Part-of-speech Tagging",
+        "url":  "pos"
+    },
+    {
+        "name": "Sentiment Analysis",
+        "url":  "sentiment"
+    },
+    {
+        "name": "Text Classification",
+        "url":  "classification"
+    },
+    {
+        "name": "Text Clustering",
+        "url":  "clustering"
+    },
+    {
+        "name": "Other",
+        "url":  "other"
+    }
+]

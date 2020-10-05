@@ -1,0 +1,218 @@
+[
+    {
+        "title": "Nelralec/Bhasha Sanchar Working Paper 2 Categorisation for automated morphosyntactic analysis of Nepali: introducing the Nelralec Tagset (NT-01)",
+        "category": "Corpus",
+        "url": "https://web.archive.org/web/20120522194347/http://www.bhashasanchar.org:80/pdfs/nelralec-wp-tagset.pdf",
+        "year": 2005
+    },
+    {
+        "title": "Construction and annotation of a corpus of contemporary Nepali",
+        "category": "Corpus",
+        "url": "https://www.researchgate.net/publication/228916687_Construction_and_annotation_of_a_corpus_of_contemporary_Nepali",
+        "year": 2008
+    },
+    {
+        "title": "The FLORES Evaluation Datasets for Low-Resource Machine Translation:Nepali–English and Sinhala–English",
+        "category": "Machine Translation",
+        "url": "https://www.aclweb.org/anthology/D19-1632.pdf",
+        "year": 2019
+    },
+    {
+        "title": "Handling Honorification in DOBHASE: Online English-to-Nepali Machine Translation System",
+        "category": "Machine Translation",
+        "url": "https://www.worldscientific.com/doi/abs/10.1142/9781860948534_0052",
+        "year": 2007
+    },
+    {
+        "title": "UNL Nepali Deconverter",
+        "category": "Machine Translation",
+        "url": "https://www.researchgate.net/publication/265043654_UNL_Nepali_Deconverter",
+        "year": 2020
+    },
+    {
+        "title": "Design of a Morph Analyzer for Non-Declinable Adjectives of Nepali Language",
+        "category": "Morphological Analysis",
+        "url": "https://dl.acm.org/doi/10.1145/3036290.3036307",
+        "year": 2017
+    },
+    {
+        "title": "A new stemmer for Nepali language",
+        "category": "Morphological Analysis",
+        "url": "https://ieeexplore.ieee.org/document/7749008",
+        "year": 2016
+    },
+    {
+        "title": "Development of a Morph Analyser for Nepali noun token",
+        "category": "Morphological Analysis",
+        "url": "https://ieeexplore.ieee.org/document/7164849",
+        "year": 2015
+    },
+    {
+        "title": "A Morphological Analyzer and a Stemmer for Nepali",
+        "category": "Morphological Analysis",
+        "url": "https://www.researchgate.net/publication/237658531_A_Morphological_Analyzer_and_a_Stemmer_for_Nepali",
+        "year": 2014
+    },
+    {
+        "title": "An Affix Removal Stemmer for Natural Language Text in Nepali",
+        "category": "Morphological Analysis",
+        "url": "https://research.ijcaonline.org/volume91/number6/pxc3893439.pdf",
+        "year": 2014
+    },
+    {
+        "title": "A Hybrid Algorithm for Stemming of Nepali Text",
+        "category": "Morphological Analysis",
+        "url": "https://file.scirp.org/Html/4-8701252_34712.htm",
+        "year": 2013
+    },
+    {
+        "title": "Inflection and derivation in Nepali Noun, adjective and adverb 1 Inflection and derivation in Nepali",
+        "category": "Morphological Analysis",
+        "url": "https://www.researchgate.net/publication/237202333_Inflection_and_derivation_in_Nepali_Noun_adjective_and_adverb_1_Inflection_and_derivation_in_Nepali",
+        "year": 2013
+    },
+    {
+        "title": "Unsupervised morpheme segmentation in a non-parametric Bayesian framework",
+        "category": "Morphological Analysis",
+        "url": "http://etheses.whiterose.ac.uk/3918/2/MSc_Thesis_Submitted_-_Santa.pdf",
+        "year": 2011
+    },
+    {
+        "title": "A Computational Analysis of Nepali Morphology: A Model for Natural Language Processing",
+        "category": "Morphological Analysis",
+        "url": "https://ojs.ub.uni-konstanz.de/jsal/dissertations/diss-balaram.pdf",
+        "year": 2011
+    },
+    {
+        "title": "Named Entity Recognition for Nepali Language",
+        "category": "Named Entity Recognition",
+        "url": "https://arxiv.org/pdf/1908.05828v1.pdf",
+        "year": 2019
+    },
+    {
+        "title": "Named Entity Recognition for Nepali Text Using Support Vector Machines",
+        "category": "Named Entity Recognition",
+        "url": "http://dx.doi.org/10.4236/iim.2014.62004",
+        "year": 2014
+    },
+    {
+        "title": "Named Entity Recognition for Nepali language: A Semi Hybrid Approach",
+        "category": "Named Entity Recognition",
+        "url": "https://www.ijeit.com/Vol%203/Issue%208/IJEIT1412201402_04.pdf",
+        "year": 2014
+    },
+    {
+        "title": "A Deep Learning Approach for Part-of-Speech Tagging in Nepali Language",
+        "category": "Part-of-speech Tagging",
+        "url": "https://ieeexplore.ieee.org/document/8554812",
+        "year": 2018
+    },
+    {
+        "title": "ANN Based POS Tagging For Nepali Text",
+        "category": "Part-of-speech Tagging",
+        "url": "https://www.semanticscholar.org/paper/ANN-Based-POS-Tagging-For-Nepali-Text-ArchitYajnik/8cc1a284d7ea51f267bb33dfdc520ad25d89a3f9?navId=extracted",
+        "year": 2018
+    },
+    {
+        "title": "Part of Speech Tagging Using Statistical Approach for Nepali Text",
+        "category": "Part-of-speech Tagging",
+        "url": "https://www.semanticscholar.org/paper/Part-of-Speech-Tagging-Using-Statistical-Approach-Yajnik/9f3a6aec785a7ba90999704cfecabb8c016a3d8e",
+        "year": 2017
+    },
+    {
+        "title": "Enhancing the Performance of Part of Speech tagging of Nepali language through Hybrid approach",
+        "category": "Part-of-speech Tagging",
+        "url": "https://www.semanticscholar.org/paper/Enhancing-the-Performance-of-Part-of-Speech-tagging-Sinha-Veyie/415e970bee7291b7fe5679a3c7f845f446f899e7",
+        "year": 2015
+    },
+    {
+        "title": "Hidden Markov Model based Part of Speech Tagging for Nepali language",
+        "category": "Part-of-speech Tagging",
+        "url": "https://ieeexplore.ieee.org/document/7377332",
+        "year": 2015
+    },
+    {
+        "title": "Support Vector Machines based Part of Speech Tagging for Nepali Text",
+        "category": "Part-of-speech Tagging",
+        "url": "https://www.semanticscholar.org/paper/Support-Vector-Machines-based-Part-of-Speech-for-Shahi-Dhamala/b36505276ef839d9b0cf193c6e65032ca5c73b37",
+        "year": 2013
+    },
+    {
+        "title": "Analyzing facts and opinions in Nepali subjective texts",
+        "category": "Sentiment Analysis",
+        "url": "https://ieeexplore.ieee.org/document/8316445",
+        "year": 2017
+    },
+    {
+        "title": "Detecting Sentiment in Nepali texts: A bootstrap approach for Sentiment Analysis of texts in the Nepali language",
+        "category": "Sentiment Analysis",
+        "url": "https://ieeexplore.ieee.org/document/7100739",
+        "year": 2015
+    },
+    {
+        "title": "Classifying sentiments in Nepali subjective texts",
+        "category": "Sentiment Analysis",
+        "url": "https://ieeexplore.ieee.org/document/7785374",
+        "year": 2016
+    },
+    {
+        "title": "Nepali news classification using Naïve Bayes, Support Vector Machines and Neural Networks",
+        "category": "Text Classification",
+        "url": "https://ieeexplore.ieee.org/document/8325883",
+        "year": 2018
+    },
+    {
+        "title": "Improving Nepali Document Classification by Neural Network",
+        "category": "Text Classification",
+        "url": "http://conference.ioe.edu.np/ioegc2016/papers/IOEGC-2016-42.pdf",
+        "year": 2016
+    },
+    {
+        "title": "Mobile SMS Spam Filtering for Nepali Text Using Naïve Bayesian and Support Vector Machine",
+        "category": "Text Classification",
+        "url": "http://dx.doi.org/10.4236/ijis.2014.41004",
+        "year": 2014
+    },
+    {
+        "title": "A lexicon pool augmented Naive Bayes Classifier for Nepali Text",
+        "category": "Text Classification",
+        "url": "https://ieeexplore.ieee.org/document/6897231",
+        "year": 2014
+    },
+    {
+        "title": "A Comparative Analysis of Particle Swarm Optimization and K-means Algorithm For Text Clustering Using Nepali Wordnet",
+        "category": "Text Clustering",
+        "url": "https://doi.org/10.5121/IJNLC.2014.3308",
+        "year": 2014
+    },
+    {
+        "title": "Semantic Text Clustering Using Enhanced Vector Space Model Using Nepali Language",
+        "category": "Text Clustering",
+        "url": "http://gesj.internet-academy.org.ge/download.php?id=1939.pdf",
+        "year": 2012
+    },
+    {
+        "title": "Towards building advanced natural language applications: an overview of the existing primary resources and applications in Nepali",
+        "category": "Other",
+        "url": "https://www.researchgate.net/publication/234790399_Towards_building_advanced_natural_language_applications_an_overview_of_the_existing_primary_resources_and_applications_in_Nepali",
+        "year": 2009
+    },
+    {
+        "title": "Structure of Nepali Grammar",
+        "category": "Other",
+        "url": "https://www.researchgate.net/publication/237261579_Structure_of_Nepali_Grammar",
+        "year": 2004
+    },
+    {
+        "title": "Report on Nepali Computational Grammar",
+        "category": "Other",
+        "url": "https://www.researchgate.net/publication/237310273_Report_on_Nepali_Computational_Grammar",
+        "year": 2006
+    },
+    {
+        "title": "Nepali Lexicon Development",
+        "category": "Other",
+        "url": "https://www.researchgate.net/publication/267789368_Nepali_Lexicon_Development",
+        "year": 2007
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "title": "Nepali Monolingual Text Corpus ILCI-II",
+        "language": "Nepali",
+        "type": "Textual",
+        "url": "https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1888"
+    },
+    {
+        "title": "Corpora Nepali (macrolanguage)",
+        "language": "Nepali",
+        "type": "Textual",
+        "url": "https://wortschatz.uni-leipzig.de/en/download/nepali-macrolanguage"
+    },
+    {
+        "title": "Nepali General Text Corpus",
+        "language": "Nepali",
+        "type": "Textual",
+        "url": "https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=453"
+    },
+    {
+        "title": "Large Scale Nepali Text Corpus",
+        "language": "Nepali",
+        "type": "Textual",
+        "url": "http://dx.doi.org/10.21227/jxrd-d245"
+    },
+    {
+        "title": "iNLTK Nepali News Dataset",
+        "language": "Nepali",
+        "type": "Textual",
+        "url": "https://www.kaggle.com/disisbig/nepali-news-dataset/tasks"
+    },
+    {
+        "title": "Nepali News Dataset (Large)",
+        "language": "Nepali",
+        "type": "Textual",
+        "url": "https://www.kaggle.com/ashokpant/nepali-news-dataset-large"
+    },
+    {
+        "title": "Dataset Nepali NER",
+        "language": "Nepali",
+        "type": "Textual",
+        "url": "https://github.com/oya163/nepali-ner/tree/master/data/ebiquity_v2"
+    },
+    {
+        "title": "Nepali Monolingual written corpus",
+        "language": "Nepali",
+        "type": "Textual",
+        "url": "https://catalog.elra.info/en-us/repository/browse/ELRA-W0076/"
+    },
+    {
+        "title": "Nepali Corpus, OSCAR",
+        "language": "Nepali",
+        "type": "Textual",
+        "url": "https://oscar-corpus.com/"
+    },
+    {
+        "title": "Nepali Songs Lyric Collection, FOSS Nepal",
+        "language": "Nepali",
+        "type": "Textual",
+        "url": "https://github.com/foss-np/sabda"
+    },
+    {
+        "title": "Hindi-Nepali Parallel Chunked Text Corpus ILCI-II",
+        "language": "Multilingual",
+        "type": "Textual",
+        "url": "https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=2065"
+    },
+    {
+        "title": "Urdu-Nepali-English Parallel Corpus",
+        "language": "Multilingual",
+        "type": "Textual",
+        "url": "http://www.cle.org.pk/software/ling_resources/UrduNepaliEnglishParallelCorpus.htm"
+    },
+    {
+        "title": "Resource from 2019 Fourth Conference on Machine Translation (WMT19)",
+        "language": "Multilingual",
+        "type": "Textual",
+        "url": "http://www.statmt.org/wmt19/parallel-corpus-filtering.html"
+    },
+    {
+        "title": "English-Nepali Parallel Corpus, ELRA",
+        "language": "Multilingual",
+        "type": "Textual",
+        "url": "https://catalog.elra.info/en-us/repository/browse/ELRA-W0077/"
+    },
+    {
+        "title": "English-Nepali translated strings",
+        "language": "Multilingual",
+        "type": "Textual",
+        "url": "https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1069"
+    },
+    {
+        "title": "Hindi-Nepali Agriculture & Entertainment Text Corpus ILCI-II",
+        "language": "Multilingual",
+        "type": "Textual",
+        "url": "https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=1672"
+    },
+    {
+        "title": "English-Nepali Sentences of Tourism Domain",
+        "language": "Multilingual",
+        "type": "Textual",
+        "url": "https://tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=457"
+    },
+    {
+        "title": "High quality TTS data for Nepali, OpenSLR",
+        "language": "Nepali",
+        "type": "Non-Textual",
+        "url": "https://www.openslr.org/43/"
+    },
+    {
+        "title": "Large Nepali ASR training data set, OpenSLR",
+        "language": "Nepali",
+        "type": "Non-Textual",
+        "url": "https://www.openslr.org/54/"
+    },
+    {
+        "title": "Nepali Spoken Corpus, ELRA",
+        "language": "Nepali",
+        "type": "Non-Textual",
+        "url": "https://catalog.elra.info/en-us/repository/browse/ELRA-S0368/"
+    },
+    {
+        "title": "Corpora Newari",
+        "language": "Newari",
+        "type": "Textual",
+        "url": "https://wortschatz.uni-leipzig.de/en/download/newari"
+    },
+    {
+        "title": "Newari Corpus, OSCAR",
+        "language": "Newari",
+        "type": "Textual",
+        "url": "https://oscar-corpus.com/"
+    }
+]

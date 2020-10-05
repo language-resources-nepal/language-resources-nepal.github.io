@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Indic NLP Library",
+        "url": "https://github.com/anoopkunchukuttan/indic_nlp_library"
+    },
+    {
+        "name": "Natural Language Toolkit for Indic Languages (iNLTK)",
+        "url": "https://github.com/goru001/inltk"
+    },
+    {
+        "name": "Morphological Analyzer and Stemmer for Nepali",
+        "url": "https://github.com/tucdcsit/stemmer"
+    },
+    {
+        "name": "Nepali Spellchecker",
+        "url": "https://github.com/foss-np/spellchecker-np"
+    },
+    {
+        "name": "Snowball Nepali Stemmer",
+        "url": "https://github.com/SushilShrestha/NepaliStemmer"
+    },
+    {
+        "name": "Nepali Stemmer",
+        "url": "https://github.com/oya163/nepali-stemmer"
+    },
+    {
+        "name": "Nepali NLP",
+        "url": "https://github.com/sushil79g/Nepali_nlp"
+    },
+    {
+        "name": "Nepali News Classifier",
+        "url": "https://github.com/sndsabin/Nepali-News-Classifier"
+    }
+]

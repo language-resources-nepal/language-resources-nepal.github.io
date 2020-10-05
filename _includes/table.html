@@ -1,0 +1,29 @@
+<table>
+    <thead>
+        <th> Paper </th>
+        <th> Published Year </th>
+        <th> Code </th>
+    </thead>
+    <tbody>
+        {% assign sorted = site.data.literature | sort: "year" | reverse %}
+        {% for article in sorted %}
+        {% if article.category == page.title %}
+        <tr>
+            <td> 
+                <a href="{{ article.url }}" target="_blank">
+                    {{ article.title }} 
+                </a>
+            </td>
+            <td> {{ article.year }} </td>
+            <td> 
+                {% if article.code_url %}
+                    <a href="{{ article.code_url }}" target="_blank"> Link </a> 
+                {% else %}
+                    N/A
+                {% endif %}
+            </td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+    </tbody>
+</table>

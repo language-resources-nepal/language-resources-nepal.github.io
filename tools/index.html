@@ -1,0 +1,20 @@
+---
+layout: page
+title: Tools
+page: Tools
+permalink: /tools
+---
+
+<table>
+    <thead>
+        <th> Name </th>
+    </thead>
+    <tbody>
+        {% assign sorted = site.data.tools | sort: "name" %}
+        {% for item in sorted %}
+            <tr> 
+                <td><a href="{{ item.url }}" target="_blank">{{ item.name }}</a></td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>

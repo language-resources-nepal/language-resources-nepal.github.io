@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<p class="focus">
+  Language Resources for Nepal is a curated collection of resources for 
+  natural language processing of various languages spoken in Nepal. The collection 
+  includes literature published in this domain, textual as well as non-textual
+  data and various tools developed by NLP researchers, professionals, and students.
+</p>
+
+<hr/>
+
+<h1 class="center header"> 
+  <a href="/tasks">NLP Tasks </a>
+</h1>
+
+<p>
+  Some common NLP tasks are as follows:
+</p>
+
+<ul style="list-style-type: square;">
+  {% for task in site.data.tasks %}
+      <li>
+          <a href="tasks/{{ task.url }}"> {{ task.name }} </a>
+      </li>
+  {% endfor %}
+</ul>
+
+<hr/>
+
+<h1 class="center"> Contribute </h1>
+
+<p>
+  If you would like to suggest addition to our collections, send us a pull request 
+  <a href="https://github.com/awalesushil/language-resources-nepal" target="_blank">here</a>.
+</p>

@@ -1,0 +1,18 @@
+---
+layout: page
+title: NLP Tasks
+page: Tasks
+permalink: /tasks
+---
+
+<p>
+    Common Natural Language Processing Tasks:
+</p>
+
+<ul style="list-style: square;">
+    {% for task in site.data.tasks %}
+        <li>
+            <a href="{{ task.url }}"> {{ task.name }} </a>
+        </li>
+    {% endfor %}
+</ul>

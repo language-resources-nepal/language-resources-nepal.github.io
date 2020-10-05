@@ -1,0 +1,24 @@
+---
+layout: page
+title: Data
+page: Data
+permalink: /data
+---
+
+<table>
+    <thead>
+        <th> Data </th>
+        <th> Language </th>
+        <th> Type </th>
+    </thead>
+    <tbody>
+        {% assign sorted = site.data.data | sort: "language" %}
+        {% for item in sorted %}
+            <tr> 
+                <td><a href="{{ item.url }}" target="_blank">{{ item.title }}</a></td>
+                <td>{{ item.language }}</td>
+                <td>{{ item.type }}</td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>

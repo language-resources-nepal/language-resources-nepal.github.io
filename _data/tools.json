@@ -30,5 +30,9 @@
     {
         "name": "Nepali News Classifier",
         "url": "https://github.com/sndsabin/Nepali-News-Classifier"
+    },
+    {
+        "name": "Named Entity Recognition for Nepali Language",
+        "url": "https://github.com/oya163/nepali-ner"
     }
 ]

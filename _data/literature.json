@@ -87,6 +87,7 @@
         "title": "Named Entity Recognition for Nepali Language",
         "category": "Named Entity Recognition",
         "url": "https://arxiv.org/pdf/1908.05828v1.pdf",
+        "code_url": "https://github.com/oya163/nepali-ner",
         "year": 2019
     },
     {
